@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+   <string name="strUpdateCity">Enreg.</string>
+   <string name="strRemoveCity">Suppr.</string>
+   <string name="strCalcMethodList">Societé Islamique d\'Amérique du Nord (ISNA):Université Umm al-Qura, La Mecque:Université de Téhéran:Ligue Islamique Mondiale (MWL):Union des Organisations Islamiques de France (UOIF)</string>
+   <string name="strBrowse">&#8230;</string>
+   <string name="strTime1">Prière de Subh</string>
+   <string name="strTime2">Shuruq (Lever du soleil)</string>
+   <string name="strTime3">Dhuhr Prayer</string>
+   <string name="strTime4">Prière de l\'Asr</string>
+   <string name="strTime5">Ghurub (Coucher du soleil)</string>
+   <string name="strTime6">Prière du Maghrib</string>
+   <string name="strTime7">Prière de l\'Isha</string>
+   <string name="strAlarmFile">Adhan</string>
+   <string name="strCalcMethod">Méthode de calcul</string>
+  	<string name="strCountry">Pays</string>
+   <string name="strCity">Ville</string>
+   <string name="strLatitude">Latitude</string>
+   <string name="strLongitude">Longitude</string>
+   <string name="strTimezone">Fuseau horaire</string>
+   <string name="strTimezoneAuto">Ajustement auto</string>
+   <string name="strTimeformat">Format 24h</string>
+   <string name="strPrayerTimes">Horaire des prières</string>
+   <string name="strDatabaseUpdated">Base de données mise à jour avec succès</string>
+   <string name="strDatabaseNotUpdated">! Ville non ajouté à la base de données : limite atteinte</string>
+   <string name="strInvalidTimezone">! Base de données non mise à jour : fuseau horaire non valide</string>
+   <string name="strSelectFile">Selectionner un fichier</string>
+   <string name="strInvalidData">! Base de données non mise à jour : donnée non valide</string>
+	<string name="strReadonly">! Base de données non mise à jour : élément en lecture seule</string>
+	<string name="strClickToChoose">Cliquer ici pour configurer&#8230;</string>
+	<string name="strTimesList">Horaires des prières</string>
+
+	<string name="strGregorianMonth1">Janvier</string>
+	<string name="strGregorianMonth2">Février</string>
+	<string name="strGregorianMonth3">Mars</string>
+	<string name="strGregorianMonth4">Avril</string>
+	<string name="strGregorianMonth5">May</string>
+	<string name="strGregorianMonth6">Juin</string>
+	<string name="strGregorianMonth7">Juillet</string>
+	<string name="strGregorianMonth8">Août</string>
+	<string name="strGregorianMonth9">Septembre</string>
+	<string name="strGregorianMonth10">Octobre</string>
+	<string name="strGregorianMonth11">Novembre</string>
+	<string name="strGregorianMonth12">Décembre</string>
+
+	<string name="strGregorianMonth1Short">Jan</string>
+	<string name="strGregorianMonth2Short">Fév</string>
+	<string name="strGregorianMonth3Short">Mar</string>
+	<string name="strGregorianMonth4Short">Avr</string>
+	<string name="strGregorianMonth5Short">Mai</string>
+	<string name="strGregorianMonth6Short">Juin</string>
+	<string name="strGregorianMonth7Short">Juil</string>
+	<string name="strGregorianMonth8Short">Août</string>
+	<string name="strGregorianMonth9Short">Sep</string>
+	<string name="strGregorianMonth10Short">Oct</string>
+	<string name="strGregorianMonth11Short">Nov</string>
+	<string name="strGregorianMonth12Short">Déc</string>
+
+	<string name="strHijriMonth1_AR">محرم</string>
+	<string name="strHijriMonth2_AR">صفر</string>
+	<string name="strHijriMonth3_AR">ربيع الأول</string>
+	<string name="strHijriMonth4_AR">ربيع الثاني</string>
+	<string name="strHijriMonth5_AR">جمادى الأولى</string>
+	<string name="strHijriMonth6_AR">جمادى الأخيرة</string>
+	<string name="strHijriMonth7_AR">رجب</string>
+	<string name="strHijriMonth8_AR">شعبان</string>
+	<string name="strHijriMonth9_AR">رمضان</string>
+	<string name="strHijriMonth10_AR">شوال</string>
+	<string name="strHijriMonth11_AR">ذو القعدة</string>
+	<string name="strHijriMonth12_AR">ذو الحجة</string>
+
+   <string name="strBismillah_AR"> بسم الله الرحمن الرحيم </string>
+   <string name="strSadaqallah_AR"> صدق الله العظيم </string>
+   <string name="strTime1_AR">صلاة الصبح</string>
+   <string name="strTime2_AR">صلاة الشروق</string>
+   <string name="strTime3_AR">صلاة الظهر</string>
+   <string name="strTime4_AR">صلاة العصر</string>
+   <string name="strTime5_AR">صلاة الغروب</string>
+   <string name="strTime6_AR">صلاة المغرب</string>
+   <string name="strTime7_AR">صلاة العشاء</string>
+
+   <string name="strAlarmFile_AR">أذان</string>
+   <string name="strCalcMethod_AR">طريقة الحساب</string>
+   <string name="strAyatSalat_AR">إن الصلاة كانت على المؤمنين كتابا موقوتا</string>
+   <string name="strCountry_AR">البلد</string>
+   <string name="strCity_AR">المدينة</string>
+   <string name="strLatitude_AR">خط العرض</string>
+   <string name="strLongitude_AR">خط الطول</string>
+   <string name="strTimezone_AR">المنطقة الزمنية</string>
+   <string name="strTimezoneAuto_AR">تحديد آلي</string>
+   <string name="strTimeformat_AR">نظام الساعة الدولي</string>
+   <string name="strPrayerTimes_AR">أوقات الصلاة</string>
+	<string name="strUpdateCity_AR">تسجيل</string>
+   <string name="strRemoveCity_AR">حذف</string>
+
+   <string name="strHelp1_AR">إستعمال برنامج أوقات الصلاة</string>
+	<string name="strHelp2_AR">بعد اضافته إلى شاشة المحمول اضغط على وسط القطعة ثم اختر موقع اقامتك</string>
+	<string name="strHelp3_AR">تستطيع أيضاً إضافة موقع جديد من خلال إدخال خطي العرض والطول والمنطقة الزمنية</string>
+	<string name="strHelp4_AR">يمكنك أيضاً إختيار الطريقة المستعملة لحساب أوقات الصلاة ضمن الطرق الأكثر إستعمالاً في العالم</string>
+	<string name="strHelp5_AR">كما يمكنك إختيار الطريقة المستعملة لحساب أوقات الصلاة ضمن الطرق الأكثر إستعمالاً في العالم</string>
+
+   <string name="strInvalidDatabase">! Base de données non valide.</string>
+   <string name="strUnsufficientMemory">! Mémoire insuffisante.</string>
+
+   <string name="strHelp">Aide</string>
+
+	<string name="strMenu">Menu</string>
+
+	<string name="strOK">OK</string>
+   <string name="strCancel">Annuler</string>
+   <string name="strExit">Quitter</string>
+
+	<string name="strMemoryAccessErr">! Impossible d\'accéder à la mémoire externe</string>
+   <string name="strSelectFileErr">! Impossible d\'accéder au fichier spécifié</string>
+   <string name="strSelectFileB">Sélectionner un fichier</string>
+	<string name="strSelectDirMessage">Long clic sur un répertoire pour le sélectionner</string>
+  	<string name="strCreateDir">Créer un répertoire</string>
+	<string name="strCloseFileBrowserMessage">&#160;\nCliquer ici pour quitter l\'explorateur de fichiers</string>
+ 	<string name="strCreateDirMessage">&#160;\nCliquer ici pour créer un répertoire</string>
+
+   <string name="strInvalidFilename">! Nom de fichier non valide</string>
+
+   <string name="strAppName">SigmaPrayer</string>
+   <string name="strAppDescription">Horaire des prières</string>
+   <string name="strActivityTitle">SigmaPrayer</string>
+
+	<string name="strHelpHeader"><big><b>Aide de SigmaPrayer</b></big>
+		\nPlaced in the public domain
+		\nsidi.moctar.alaoui@gmail.com
+	</string>
+
+	<string name="strHelpContent">
+		SigmaPrayer est un logiciel de calcul des horaires des prières islamiques.\n\n
+
+		<big><b><u>Aide</u></b></big>\n
+			L\'utilisation de SigmaPrayer est simple : \n
+			&#9679; Ajouter le widget à l\'écran de votre appareil (Menu/Ajouter/Widget/SigmaPrayer).\n
+			&#9679; Cliquer sur le milieu du widget (ou lancer SigmaPrayer à partir du menu/Applications d\'Android) et choisir votre ville en cliquent sur le bouton du haut et sélectionner votre localisation dans la liste,
+			ou ajouter la en entrant les coordonnées latitude/longitude et le fuseau horaire.\n
+			Vous pouvez sélectionner le format de l\'heure (24h ou 12h), activer ou désactiver l\'Adhan (appel à la prière) pour chaque prière, choisir le fichier Adhan (fichier MP3 que vous aurez sauvegardé sur votre carte mémoire), etc.
+			\n\n
+
+		<big><b><u>Changements</u></b></big>\n
+
+		<b>Version 1.0</b>\n
+			\u21BB Version initiale.
+			\n\n
+
+		<big><b><u>Copyright</u></b></big>\n
+			\tPlaced in the public domain: it may be freely reproduced, distributed, transmitted, used, modified, built upon, or otherwise exploited by anyone for any purpose, commercial or non-commercial, and in any way.
+		    \tsidi.moctar.alaoui@gmail.com\n\n
+
+	</string>
+
+</resources>

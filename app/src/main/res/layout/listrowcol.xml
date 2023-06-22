@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layoutRowCol"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+     <TextView
+        android:id="@+id/txtDay"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_weight="1">
+    </TextView>
+	
+	 <TextView
+        android:id="@+id/txtTime1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_weight="1">
+    </TextView>
+     
+    <TextView
+        android:id="@+id/txtTime3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_weight="1">
+    </TextView>
+     
+    <TextView
+        android:id="@+id/txtTime4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_weight="1">
+    </TextView>
+     
+    <TextView
+        android:id="@+id/txtTime6"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_weight="1">
+    </TextView>
+     
+    <TextView
+        android:id="@+id/txtTime7"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_weight="1">
+    </TextView>
+</LinearLayout>

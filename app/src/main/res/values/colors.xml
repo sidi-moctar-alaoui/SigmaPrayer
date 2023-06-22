@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+   <color name="menuBackground">#FF363E48</color>
+   <color name="menuBorder">#FF5E6976</color>
+	<color name="menulistSep">#FF766746</color>
+ 
+   <color name="dialogBackground">#FF343C44</color>
+   <color name="dialogBackgroundGrad">#FF3E4852</color>
+   <color name="dialogBackgroundBorder">#FFAA9B82</color>
+
+	<color name="panelistSep">#E0857553</color>
+
+   <color name="lineseparator">#FF787878</color>
+
+   <color name="itemSelectedBorder">#FFDCA064</color>  
+   <color name="itemSelected">#FFC8781E</color>
+   <color name="itemSelectedL">#FF965A1E</color>
+   
+	<color name="background">#FF000000</color>
+	<color name="mainBackground">#FF24262A</color>
+	<color name="mainBackgroundBorder">#FF46464A</color>
+	<color name="resBackground">#FF464A56</color>
+	<color name="resBackgroundBorder">#FF5E626C</color>
+			
+	<color name="buttonnumber">#E05E656C</color>
+	<color name="buttonnumberGrad">#E0737B83</color>
+	<color name="buttonnumberBorder">#E0838C95</color>
+
+   <color name="textcolor">#FFF0F0F0</color>
+   <color name="warncolor">#FFFFCBC1</color>
+		
+	<color name="browserBackground">#FF3D454F</color>
+
+	<color name="transparent">#00FFFFFF</color>
+		
+	<color name="buttondlg">#E0737B83</color>
+	<color name="buttondlgGrad">#E0848C94</color>
+	<color name="buttondlgBorder">#E08D959D</color>
+	
+</resources>

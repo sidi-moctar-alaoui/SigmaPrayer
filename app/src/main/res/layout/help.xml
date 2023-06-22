@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollHelp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dlginset" >
+
+    <LinearLayout
+        android:id="@+id/layoutHelp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:scrollbars="vertical" >
+
+        <TextView
+            android:id="@+id/txtHelpHeaderA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:gravity="center"
+            android:text="" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtHelpA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:gravity="right"
+            android:text="" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtHelpHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:contentDescription="@string/strAppName"
+            android:drawableLeft="@drawable/icon"
+            android:drawablePadding="8dp"
+            android:text="@string/strHelpHeader" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtHelp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:text="" >
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>

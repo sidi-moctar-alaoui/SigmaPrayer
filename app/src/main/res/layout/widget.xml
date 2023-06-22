@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<LinearLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/layoutWidget"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/layoutstylec"
+		style="@style/widgetStyle"
+	   android:orientation="vertical"
+		android:scrollbars="vertical">
+
+		<LinearLayout
+			android:id="@+id/layoutPrayerHeader"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center">
+
+			<TextView
+				android:id="@+id/txtHeader_AR"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center"
+				android:text=""
+				style="@style/textviewStyle">
+			</TextView>
+		</LinearLayout>
+
+		<LinearLayout
+			android:id="@+id/layoutCity"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center">
+
+			<TextView
+				android:id="@+id/txtCity"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center"
+				android:text=""
+				style="@style/textviewStyle">
+			</TextView>
+		</LinearLayout>
+
+		<LinearLayout
+			android:id="@+id/layoutPrayerTimes"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center">
+
+			<TextView
+				android:id="@+id/txtTime1"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.2"
+				android:gravity="center"
+				android:text=""
+				style="@style/textviewStyle">
+			</TextView>
+
+			<TextView
+				android:id="@+id/txtTime3"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.2"
+				android:gravity="center"
+				android:text=""
+				style="@style/textviewStyle">
+			</TextView>
+
+			<TextView
+				android:id="@+id/txtTime4"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.2"
+				android:gravity="center"
+				android:text=""
+				style="@style/textviewStyle">
+			</TextView>
+
+			<TextView
+				android:id="@+id/txtTime6"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.2"
+				android:gravity="center"
+				android:text=""
+				style="@style/textviewStyle">
+			</TextView>
+
+			<TextView
+				android:id="@+id/txtTime7"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.2"
+				android:gravity="center"
+				android:text=""
+				style="@style/textviewStyle">
+			</TextView>
+		</LinearLayout>
+
+	</LinearLayout>
+

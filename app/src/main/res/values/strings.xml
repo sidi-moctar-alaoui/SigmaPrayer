@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+   <string name="strUpdateCity">Save</string>
+   <string name="strRemoveCity">Remove</string>
+   <string name="strCalcMethodList">Islamic Society of North America (ISNA):Umm al-Qura University, Makkah:University of Tehran:Muslim World League:Union of French Islamic Organizations (UOIF)</string>
+   <string name="strBrowse">&#8230;</string>
+   <string name="strTime1">Subh Prayer</string>
+   <string name="strTime2">Shuruq (Sunrise)</string>
+   <string name="strTime3">Dhuhr Prayer</string>
+   <string name="strTime4">Asr Prayer</string>
+   <string name="strTime5">Ghurub (Sunset)</string>
+   <string name="strTime6">Maghrib Prayer</string>
+   <string name="strTime7">Isha Prayer</string>
+   <string name="strAlarmFile">Adhan</string>
+   <string name="strCalcMethod">Calculation Method</string>
+   <string name="strCountry">Country</string>
+   <string name="strCity">City</string>
+  	<string name="strLatitude">Latitude</string>
+   <string name="strLongitude">Longitude</string>
+   <string name="strTimezone">Timezone</string>
+   <string name="strTimezoneAuto">Auto Adjust</string>
+   <string name="strTimeformat">Time 24h</string>
+   <string name="strPrayerTimes">Prayer Times</string>
+   <string name="strDatabaseUpdated">Database updated successfully</string>
+   <string name="strDatabaseNotUpdated">! City not added to database: limit reached</string>
+   <string name="strInvalidTimezone">! Database not updated: invalid timezone</string>
+   <string name="strSelectFile">Select file</string>
+   <string name="strInvalidData">! Database not updated: invalid data</string>
+	<string name="strReadonly">! Database not updated: Read-only item</string>
+	<string name="strClickToChoose">Click here to configure&#8230;</string>
+	<string name="strTimesList">Prayer Times</string>
+
+	<string name="strHijriMonth1_AR">محرم</string>
+	<string name="strHijriMonth2_AR">صفر</string>
+	<string name="strHijriMonth3_AR">ربيع الأول</string>
+	<string name="strHijriMonth4_AR">ربيع الثاني</string>
+	<string name="strHijriMonth5_AR">جمادى الأولى</string>
+	<string name="strHijriMonth6_AR">جمادى الأخيرة</string>
+	<string name="strHijriMonth7_AR">رجب</string>
+	<string name="strHijriMonth8_AR">شعبان</string>
+	<string name="strHijriMonth9_AR">رمضان</string>
+	<string name="strHijriMonth10_AR">شوال</string>
+	<string name="strHijriMonth11_AR">ذو القعدة</string>
+	<string name="strHijriMonth12_AR">ذو الحجة</string>
+
+	<string name="strGregorianMonth1">January</string>
+	<string name="strGregorianMonth2">February</string>
+	<string name="strGregorianMonth3">March</string>
+	<string name="strGregorianMonth4">April</string>
+	<string name="strGregorianMonth5">May</string>
+	<string name="strGregorianMonth6">June</string>
+	<string name="strGregorianMonth7">July</string>
+	<string name="strGregorianMonth8">August</string>
+	<string name="strGregorianMonth9">September</string>
+	<string name="strGregorianMonth10">October</string>
+	<string name="strGregorianMonth11">November</string>
+	<string name="strGregorianMonth12">December</string>
+
+	<string name="strGregorianMonth1Short">Jan</string>
+	<string name="strGregorianMonth2Short">Feb</string>
+	<string name="strGregorianMonth3Short">Mar</string>
+	<string name="strGregorianMonth4Short">Apr</string>
+	<string name="strGregorianMonth5Short">May</string>
+	<string name="strGregorianMonth6Short">Jun</string>
+	<string name="strGregorianMonth7Short">Jul</string>
+	<string name="strGregorianMonth8Short">Aug</string>
+	<string name="strGregorianMonth9Short">Sepr</string>
+	<string name="strGregorianMonth10Short">Oct</string>
+	<string name="strGregorianMonth11Short">Nov</string>
+	<string name="strGregorianMonth12Short">Dec</string>
+
+   <string name="strBismillah_AR"> بسم الله الرحمن الرحيم </string>
+   <string name="strSadaqallah_AR"> صدق الله العظيم </string>
+   <string name="strTime1_AR">صلاة الصبح</string>
+   <string name="strTime2_AR">صلاة الشروق</string>
+   <string name="strTime3_AR">صلاة الظهر</string>
+   <string name="strTime4_AR">صلاة العصر</string>
+   <string name="strTime5_AR">صلاة الغروب</string>
+   <string name="strTime6_AR">صلاة المغرب</string>
+   <string name="strTime7_AR">صلاة العشاء</string>
+   <string name="strAlarmFile_AR">أذان</string>
+   <string name="strCalcMethod_AR">طريقة الحساب</string>
+   <string name="strAyatSalat_AR">إن الصلاة كانت على المؤمنين كتابا موقوتا</string>
+   <string name="strCountry_AR">البلد</string>
+   <string name="strCity_AR">المدينة</string>
+   <string name="strLatitude_AR">خط العرض</string>
+   <string name="strLongitude_AR">خط الطول</string>
+   <string name="strTimezone_AR">المنطقة الزمنية</string>
+   <string name="strTimezoneAuto_AR">تحديد آلي</string>
+   <string name="strTimeformat_AR">نظام الساعة الدولي</string>
+   <string name="strPrayerTimes_AR">أوقات الصلاة</string>
+   <string name="strUpdateCity_AR">تسجيل</string>
+   <string name="strRemoveCity_AR">حذف</string>
+
+   <string name="strHelp1_AR">إستعمال برنامج أوقات الصلاة</string>
+	<string name="strHelp2_AR">بعد اضافته إلى شاشة المحمول اضغط على وسط القطعة ثم اختر موقع اقامتك</string>
+	<string name="strHelp3_AR">تستطيع أيضاً إضافة موقع جديد من خلال إدخال خطي العرض والطول والمنطقة الزمنية</string>
+	<string name="strHelp4_AR">يمكنك أيضاً إختيار الطريقة المستعملة لحساب أوقات الصلاة ضمن الطرق الأكثر إستعمالاً في العالم</string>
+	<string name="strHelp5_AR">كما يمكنك إختيار الطريقة المستعملة لحساب أوقات الصلاة ضمن الطرق الأكثر إستعمالاً في العالم</string>
+
+   <string name="strInvalidDatabase">! Invalid database.</string>
+   <string name="strUnsufficientMemory">! Unsufficient memory.</string>
+
+   <string name="strHelp">Help</string>
+
+	<string name="strMenu">Menu</string>
+
+	<string name="strOK">OK</string>
+   <string name="strCancel">Cancel</string>
+   <string name="strExit">Exit</string>
+
+   <string name="strInvalidFilename">! Invalid filename</string>
+
+   <string name="strMemoryAccessErr">! Cannot access the external memory</string>
+   <string name="strSelectFileErr">! Cannot access the specified file</string>
+   <string name="strSelectFileB">Select file</string>
+ 	<string name="strSelectDirMessage">Long click a directory to select it</string>
+  	<string name="strCreateDir">Create Directory</string>
+	<string name="strCloseFileBrowserMessage">&#160;\nClick here to close the file browser</string>
+ 	<string name="strCreateDirMessage">&#160;\nClick here to create a directory</string>
+
+   <string name="strAppName">SigmaPrayer</string>
+   <string name="strAppDescription">Prayer Times</string>
+   <string name="strActivityTitle">SigmaPrayer</string>
+
+	<string name="strHelpHeader"><big><b>SigmaPrayer Help</b></big>
+		\nPlaced in the public domain
+		\nsidi.moctar.alaoui@gmail.com
+	</string>
+
+	<string name="strHelpContent">
+		SigmaPrayer is an islamic prayer times calculator.\n\n
+
+		<big><b><u>Help</u></b></big>\n
+			Using SigmaPrayer is straightforward: \n
+			&#9679; Add the widget to your screen (Menu/Add Widget/SigmaPrayer).\n
+			&#9679; Click in the middle of the widget (ou launch SigmaPrayer from Android menu/Applications) and choose your location by clicking the top button and selecting it in the list, or adding it by entering the latitude/longitude coordinates and time zone.\n
+			You can set your time format (24h or 12h), enable or disable alarm (Adhan) for every prayer, choose the Adhan file (MP3 file on your SD card), etc.
+			\n\n
+
+		<big><b><u>Changelog</u></b></big>\n
+
+		<b>Version 1.0</b>\n
+			\u21BB Initial release.
+			\n\n
+
+		<big><b><u>Copyright</u></b></big>\n
+			\tPlaced in the public domain
+		    \tsidi.moctar.alaoui@gmail.com\n\n
+
+	</string>
+
+</resources>
